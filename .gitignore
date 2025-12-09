@@ -1,0 +1,5 @@
+*.lck
+*-backups
+\#auto_saved_files\#
+
+pics/DSC_*
