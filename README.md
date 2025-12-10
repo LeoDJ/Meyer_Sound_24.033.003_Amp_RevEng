@@ -13,11 +13,11 @@ From what I can tell, the stacked pre-amp/control board (`24.033.042`) should've
 
 In this repository you can find:
 - a GIMP image file containing front & back of the PCB with traced traces for better readability
-- KiCad schematic of the reverse engineered circuit
+- KiCad [schematic of the reverse engineered circuit](Meyer%20Sound%20Amplifier%20PCB%2024.033.003/Meyer%20Sound%20Amplifier%20PCB%2024.033.003.pdf)
   - (as of right now, only the analog amplifier part, none of the feedback)
 - Some images of the module / PCB
 
-As far as I know, the same amplifier PCB can also be found in the Meyer Sound MP-2/4, Hp-2, MSL-4, 700HP.
+As far as I know, the same amplifier PCB can also be found in the Meyer Sound MP-2/4, HP-2, MSL-4, 700HP.
 And the assembly number for the complete assembly (heat sink, amp board, pre-amp board) is `40.033.013.01`  
 
 ### Disclaimer
